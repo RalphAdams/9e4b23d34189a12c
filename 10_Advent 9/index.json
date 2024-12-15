@@ -2,6 +2,14 @@
   "spectra": [
     {
       "source": {
+        "jcampURL": "./13c.jdx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
         "jcampURL": "./13cdec.jdx"
       },
       "display": {
